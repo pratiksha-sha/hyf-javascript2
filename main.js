@@ -17,6 +17,7 @@ function threeFive(startIndex, stopIndex, threeCallback, fiveCallback){
 }
 console.log (values);
 }
+threefive(3,10);
 
 //using for loop
 function repeatString(str,num){
